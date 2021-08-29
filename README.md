@@ -1,5 +1,5 @@
 # FoodApp
-Foof App
+Food App
 
 ------
 ReactJS 17.0.1^
